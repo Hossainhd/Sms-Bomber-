@@ -1,0 +1,131 @@
+https://raw.githubusercontent.com/your-username/virusx-bomber/main/virusx_bomber.py
+# Install Python
+pkg install python -y
+
+# Install Required Packages
+pip install requests
+
+# Download Script
+wget https://raw.githubusercontent.com/your-username/virusx-bomber/main/virusx_bomber.py
+
+# Run Script
+python virusx_bomber.py
+
+
+
+Method 2: Manual Setup
+
+```bash
+# Install Python
+pkg install python -y
+
+# Install Required Packages
+pip install requests
+
+# Download Script
+wget https://raw.githubusercontent.com/your-username/virusx-bomber/main/virusx_bomber.py
+
+# Run Script
+python virusx_bomber.py
+```
+
+🎯 Usage
+
+1. Start the Script:
+   ```bash
+   python virusx_bomber.py
+   ```
+2. Main Menu Options:
+   · [1] 🚀 Start Bombing Attack - Start SMS bombing
+   · [2] 📊 View Statistics - Check user stats
+   · [3] 📖 Help Guide - Usage instructions
+   · [4] 🔒 About VirusX - Project information
+   · [0] 🚪 Exit - Exit script
+3. Attack Process:
+   · Enter target number (01XXXXXXXXX)
+   · Enter number of rounds (1-20)
+   · Confirm the attack
+   · Wait for completion
+
+🔒 Security Features
+
+· API Encryption: All API URLs are Base64 encoded
+· Anti-Copy Protection: Script cannot be copied illegally
+· Owner Verification: Only authorized users can use
+· Runtime Decoding: APIs decoded only during execution
+
+⚠️ Disclaimer
+
+This tool is created for educational purposes only. The developers are not responsible for any misuse of this tool.
+
+Important Notes:
+
+· 🔞 Use responsibly and ethically
+· 📵 Do not abuse the service
+· ⚖️ Respect privacy and laws
+· 🎓 For educational purposes only
+
+🆘 Support
+
+· Owner: Hossain Mahmud
+· Telegram Group: @VirusX_Public
+· Issues: Create issue on GitHub
+
+🐛 Troubleshooting
+
+Common Issues:
+
+1. Python not found:
+   ```bash
+   pkg install python -y
+   ```
+2. Requests module error:
+   ```bash
+   pip install requests
+   ```
+3. Permission denied:
+   ```bash
+   chmod +x virusx_bomber.py
+   ```
+4. Script not running:
+   ```bash
+   python3 virusx_bomber.py
+   ```
+
+📝 Changelog
+
+v3.0 (Current)
+
+· ✅ 25+ Hidden APIs
+· ✅ Advanced Security System
+· ✅ Hacker UI Design
+· ✅ Multi-threading Support
+
+v2.0
+
+· ✅ 15+ APIs
+· ✅ Basic Security
+· ✅ Simple UI
+
+v1.0
+
+· ✅ Initial Release
+· ✅ 10 APIs
+
+🔄 Updates
+
+Script automatically checks for updates. Make sure to:
+
+· Keep your Termux updated
+· Follow our Telegram channel for announcements
+· Report any bugs immediately
+
+---
+
+<div align="center">
+
+⭐ Star this repository if you find it useful!
+
+📢 Join our community: @VirusX_Public
+
+👑 Developed by Hossain Mahmud
