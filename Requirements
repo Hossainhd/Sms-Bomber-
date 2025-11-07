@@ -1,0 +1,25 @@
+```bash
+# virusx-bomber/
+# ├── virusx_bomber.py
+# ├── requirements.txt
+# ├── README.md
+# └── install.sh
+```
+
+requirements.txt:
+
+```txt
+requests
+```
+
+install.sh:
+
+```bash
+#!/bin/bash
+echo "🔧 Installing VirusX SMS Bomber..."
+pkg update -y
+pkg upgrade -y
+pkg install python -y
+pip install requests
+echo "✅ Installation Complete!"
+echo "🚀 Run: python virusx_bomber.py
